@@ -71,6 +71,6 @@ ReconhecimentoPy/
 - **Erro de conexão com MySQL:** Confirme que o servidor MySQL está rodando e que as credenciais de acesso estão corretas.
 
 ## Autor
-- **PABLO MOISÉS** - [GitHub](https://github.com/pablinrlq)
+- **Pablo Moisés** - [GitHub](https://github.com/pablinrlq)
 
 
